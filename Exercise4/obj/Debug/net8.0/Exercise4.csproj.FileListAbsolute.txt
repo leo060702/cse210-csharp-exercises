@@ -1,0 +1,15 @@
+D:\cse210-csharp-exercises\Exercise4\bin\Debug\net8.0\Exercise4.exe
+D:\cse210-csharp-exercises\Exercise4\bin\Debug\net8.0\Exercise4.deps.json
+D:\cse210-csharp-exercises\Exercise4\bin\Debug\net8.0\Exercise4.runtimeconfig.json
+D:\cse210-csharp-exercises\Exercise4\bin\Debug\net8.0\Exercise4.dll
+D:\cse210-csharp-exercises\Exercise4\bin\Debug\net8.0\Exercise4.pdb
+D:\cse210-csharp-exercises\Exercise4\obj\Debug\net8.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+D:\cse210-csharp-exercises\Exercise4\obj\Debug\net8.0\Exercise4.AssemblyInfoInputs.cache
+D:\cse210-csharp-exercises\Exercise4\obj\Debug\net8.0\Exercise4.AssemblyInfo.cs
+D:\cse210-csharp-exercises\Exercise4\obj\Debug\net8.0\Exercise4.csproj.CoreCompileInputs.cache
+D:\cse210-csharp-exercises\Exercise4\obj\Debug\net8.0\Exercise4.sourcelink.json
+D:\cse210-csharp-exercises\Exercise4\obj\Debug\net8.0\Exercise4.dll
+D:\cse210-csharp-exercises\Exercise4\obj\Debug\net8.0\refint\Exercise4.dll
+D:\cse210-csharp-exercises\Exercise4\obj\Debug\net8.0\Exercise4.pdb
+D:\cse210-csharp-exercises\Exercise4\obj\Debug\net8.0\Exercise4.genruntimeconfig.cache
+D:\cse210-csharp-exercises\Exercise4\obj\Debug\net8.0\ref\Exercise4.dll
