@@ -1,0 +1,15 @@
+D:\cse210-csharp-exercises\Exercise3\bin\Debug\net8.0\Exercise3.exe
+D:\cse210-csharp-exercises\Exercise3\bin\Debug\net8.0\Exercise3.deps.json
+D:\cse210-csharp-exercises\Exercise3\bin\Debug\net8.0\Exercise3.runtimeconfig.json
+D:\cse210-csharp-exercises\Exercise3\bin\Debug\net8.0\Exercise3.dll
+D:\cse210-csharp-exercises\Exercise3\bin\Debug\net8.0\Exercise3.pdb
+D:\cse210-csharp-exercises\Exercise3\obj\Debug\net8.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+D:\cse210-csharp-exercises\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfoInputs.cache
+D:\cse210-csharp-exercises\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfo.cs
+D:\cse210-csharp-exercises\Exercise3\obj\Debug\net8.0\Exercise3.csproj.CoreCompileInputs.cache
+D:\cse210-csharp-exercises\Exercise3\obj\Debug\net8.0\Exercise3.sourcelink.json
+D:\cse210-csharp-exercises\Exercise3\obj\Debug\net8.0\Exercise3.dll
+D:\cse210-csharp-exercises\Exercise3\obj\Debug\net8.0\refint\Exercise3.dll
+D:\cse210-csharp-exercises\Exercise3\obj\Debug\net8.0\Exercise3.pdb
+D:\cse210-csharp-exercises\Exercise3\obj\Debug\net8.0\Exercise3.genruntimeconfig.cache
+D:\cse210-csharp-exercises\Exercise3\obj\Debug\net8.0\ref\Exercise3.dll
